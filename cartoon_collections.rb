@@ -2,7 +2,7 @@ def roll_call_dwarves# code an argument here
 
   def roll_call_dwarves
     puts dwarves = ["Dopey", "Grumpy", "Bashful"]
-    
+    dwarves
 
 end
 
